@@ -1,1 +1,2 @@
 New feature added on featur1 branch
+Bug fix added on hotfix branch
